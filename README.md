@@ -1,4 +1,4 @@
 # BDO
 Project by:
-Francesca Torrasso
-Paola Benedetti
+Paola Benedetti and Francesca Torrasso
+
